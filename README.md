@@ -2,4 +2,4 @@
 
 Tap this repository:
 
-    brew tap Ashton-W/formulae
+    brew tap Ashton-W/homebrew-formulae
